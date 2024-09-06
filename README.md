@@ -1,3 +1,9 @@
-# url_shortening
-A project to get a good hold of node.
-https://roadmap.sh/projects/url-shortening-service
+This is a url shortener service project from Roadmap.sh.
+
+Tech Stack:
+ExpressJS
+NodeJs
+
+Implementation
+Made use of short-unique-id to generate the shortend url
+Stored access count of the url
